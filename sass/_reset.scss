@@ -10,6 +10,10 @@ img {
   display: block;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 button {
   cursor: pointer;
   background-color: transparent;
@@ -18,4 +22,9 @@ button {
 
 ul {
   list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
 }
