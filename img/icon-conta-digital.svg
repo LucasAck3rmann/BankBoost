@@ -1,11 +1,1 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle opacity="0.4" cx="24" cy="24" r="24" fill="url(#paint0_linear_418_61)"/>
-<path opacity="0.8" d="M30.2791 13L17 36" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="17.7241" y="15.2046" width="11.9512" height="17.2628" rx="3" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<defs>
-<linearGradient id="paint0_linear_418_61" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
-<stop offset="0.223958" stop-color="#653DF5"/>
-<stop offset="0.770833" stop-color="#4526B4" stop-opacity="0"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48"><circle cx="24" cy="24" r="24" fill="url(#paint0_linear_418_61)" opacity=".4"/><path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M30.2791 13L17 36" opacity=".8"/><rect width="11.951" height="17.263" x="17.724" y="15.205" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" rx="3"/><defs><linearGradient id="paint0_linear_418_61" x1="24" x2="24" y1="0" y2="48" gradientUnits="userSpaceOnUse"><stop offset=".224" stop-color="#653DF5"/><stop offset=".771" stop-color="#4526B4" stop-opacity="0"/></linearGradient></defs></svg>
